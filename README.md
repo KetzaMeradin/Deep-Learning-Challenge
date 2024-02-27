@@ -174,4 +174,4 @@ D (+/-)	60–69
 F (+/-)	< 60
 
 Resources/Inspiration:
-https://github.com/JLeigh101/deep-learning-challenge/blob/main/AlphabetSoupCharity.ipynb
+https://github.com/JLeigh101/deep-learning-challenge/tree/main
